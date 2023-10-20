@@ -1,0 +1,17 @@
+{
+  "name": "req",
+  "version": "1.0.0",
+  "main": "as.js",
+  "scripts": {
+    "test": "test",
+    "start": "node as.js"
+  },
+  "author": "yowuzzup",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  },
+  "keywords": [],
+  "description": "",
+  "type": "module"
+}
