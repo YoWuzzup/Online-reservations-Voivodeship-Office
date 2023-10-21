@@ -1,17 +1,20 @@
 {
   "name": "req",
   "version": "1.0.0",
-  "main": "as.js",
+  "main": "main.js",
   "scripts": {
     "test": "test",
-    "start": "node as.js"
+    "start": "node main.js"
   },
   "author": "yowuzzup",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.3.1",
+    "nodemailer": "^6.9.6",
     "puppeteer": "^21.3.8"
   },
   "keywords": [],
   "description": "",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {}
 }
